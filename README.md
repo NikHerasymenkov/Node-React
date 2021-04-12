@@ -1,2 +1,4 @@
 # Node-Reactjs
-# Node-React
+# client npm run start
+# server npm run dev
+# test npm run test
